@@ -7,4 +7,4 @@ A simple number guessing game developed in Java.
 Calculates total marks, average percentage, and grade.
 
 ## Task 3 - ATM Interface
-ATM simulation with balance check, deposit, and withdrawal features.
+ATM simulation with balance check, deposit, and withdrawal features
